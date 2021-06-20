@@ -1,6 +1,6 @@
 song = "";
 
-function preload(){
+function setup(){
     song = loadSound("song.mp3");
 }
 
